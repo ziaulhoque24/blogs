@@ -1,0 +1,14 @@
+.container{
+    background-color: rgb(255, 253, 253);
+    padding: 50px;
+    border: 1px solid gray;
+    color: black;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+.title{
+    font-weight: 700;
+    font-size: medium;
+    color: blue
+}
